@@ -34,4 +34,4 @@ http://www.visualstudio.com/downloads/download-visual-studio-vs
 ### Github
 Зарегистрируйтесь на https://github.com
 
-Залогиньтесь, откройте https://github.com/kontur-edu/kampus-ekb-2013-11 и нажмите кнопку Watch в правом верхнем углу окна.
+Залогиньтесь, откройте https://github.com/kontur-edu/kampus-ekb-2014-03 и нажмите кнопку Watch в правом верхнем углу окна.
