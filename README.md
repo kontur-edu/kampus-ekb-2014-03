@@ -11,8 +11,11 @@
 
 Для домашнего изучения
 ---
+* Книга [Чистый код. Роберт Мартин](http://www.ozon.ru/context/detail/id/5011068/)
+* Книга [Программист-прагматик. Эндрю Хант](http://www.ozon.ru/context/detail/id/1657382/)
+* [Все возможности фреймворка для тестировани NUnit](http://nunit.org/index.php?p=docHome&r=2.6.3)
+* Про тестирование есть хорошая глава в книге "Чистый код".
 * [Pro Git Book](http://git-scm.com/book/ru)
 * [Learn git branching game](http://pcottle.github.io/learnGitBranching/)
-* Книга [Чистый код. Роберт Мартин](http://www.ozon.ru/context/detail/id/5011068/)
 * Free e-book [Threading in C#](http://www.albahari.com/threading/)
-* ...
+* Кучу ссылок по функциональному программированию можно посмотреть в конце [презентации](01-fp/FP in C# 2014.pptx)
